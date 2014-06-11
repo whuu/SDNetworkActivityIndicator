@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://github.com/rs/SDNetworkActivityIndicator"
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = 'rs'
-  s.source = { :git => "https://github.com/whuu/MJPopupViewController.git", :branch => "master" }
+  s.source = { :git => "https://github.com/whuu/SDNetworkActivityIndicator.git", :branch => "master" }
   s.platform = :ios, '4.0'
   s.source_files = '*.{h,m}'
   s.requires_arc = true
